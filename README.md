@@ -56,7 +56,7 @@ LLM Pipelines  →  RAG Systems  →  Multi-Agent Frameworks  →  Production De
 | [multi-agent-orchestration](https://github.com/SaurabhTripathi62/multi-agent-orchestration) | Multi-agent AI framework for enterprise automation | AutoGen · GPT-4o · Azure |
 | [llm-evaluation-toolkit](https://github.com/SaurabhTripathi62/llm-evaluation-toolkit) | Evaluate LLM outputs — hallucination, relevance, latency | Python · OpenAI · Pandas |
 | [genai-solution-templates](https://github.com/SaurabhTripathi62/genai-solution-templates) | Reusable GenAI architecture patterns & prompt libraries | LangChain · FastAPI · Docker |
-
+| [langgraph-research-agent-langsmith](https://github.com/SaurabhTripathi62/langgraph-research-agent-langsmith) | Agentic research assistant with multi-step reasoning & tracing | LangGraph · LangSmith · GPT-4 |
 ---
 
 ## Outcomes That Matter
