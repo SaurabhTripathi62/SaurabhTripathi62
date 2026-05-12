@@ -28,6 +28,8 @@ LLM Pipelines  →  RAG Systems  →  Multi-Agent Frameworks  →  Production De
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A017?style=flat-square&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Infrastructure & MLOps**
 
